@@ -1,0 +1,7 @@
+Bundle-SymbolicName: camunda.workflow.builder-api
+Bundle-Version: 1.0.0
+Export-Package:\
+	de.iisys.exception,\
+	de.iisys.model,\
+	de.iisys.service,\
+	de.iisys.service.persistence
